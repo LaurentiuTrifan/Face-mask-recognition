@@ -1,0 +1,7 @@
+Source: https://github.com/Kyrie-leon/Face-Mask-Classification-Dataset
+papper reference: Su, X., Gao, M., Ren, J. et al. Face mask detection and classification via deep transfer learning. Multimed Tools Appl (2021). https://doi.org/10.1007/s11042-021-11772-5
+
+
+Source: https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset
+Author: Jinbao Huang from National Engineering Research Center for MultimediaSoftware of Wuhan University
+

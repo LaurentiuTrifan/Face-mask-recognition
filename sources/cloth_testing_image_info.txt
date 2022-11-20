@@ -1,0 +1,3 @@
+Source: https://www.kaggle.com/datasets/vijaykumar1799/face-mask-detection
+Author: VIJAY KUMAR
+License CC0: Public Domain

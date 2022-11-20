@@ -1,0 +1,499 @@
+n95-testing-1
+Source: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
+Author: Wobot Intelligence
+License Type: CC0: Public Domain
+
+n95-testing-2
+Source: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
+Author: Wobot Intelligence
+License Type: CC0: Public Domain
+
+n95-testing-3
+Source: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
+Author: Wobot Intelligence
+License Type: CC0: Public Domain
+
+n95-testing-4
+Source: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
+Author: Wobot Intelligence
+License Type: CC0: Public Domain
+
+n95-testing-5
+Source: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
+Author: Wobot Intelligence
+License Type: CC0: Public Domain
+
+n95-testing-6
+Source: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
+Author: Wobot Intelligence
+License Type: CC0: Public Domain
+
+n95-testing-7
+Source: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
+Author: Wobot Intelligence
+License Type: CC0: Public Domain
+
+n95-testing-8
+Source: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
+Author: Wobot Intelligence
+License Type: CC0: Public Domain
+
+n95-testing-9
+Source: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
+Author: Wobot Intelligence
+License Type: CC0: Public Domain
+
+n95-testing-10
+Source: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
+Author: Wobot Intelligence
+License Type: CC0: Public Domain
+
+n95-testing-11
+Source: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
+Author: Wobot Intelligence
+License Type: CC0: Public Domain
+
+n95-testing-12
+Source: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
+Author: Wobot Intelligence
+License Type: CC0: Public Domain
+
+n95-testing-13
+Source: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
+Author: Wobot Intelligence
+License Type: CC0: Public Domain
+
+n95-testing-14
+Source: https://www.kaggle.com/datasets/prithwirajmitra/covid-face-mask-detection-dataset
+Author: Prithwiraj Mitra
+License Type: Data files © Original Authors
+
+n95-testing-15
+Source: https://www.kaggle.com/datasets/prithwirajmitra/covid-face-mask-detection-dataset
+Author: Prithwiraj Mitra
+License Type: Data files © Original Authors
+
+n95-testing-16
+Source: https://www.kaggle.com/datasets/prithwirajmitra/covid-face-mask-detection-dataset
+Author: Prithwiraj Mitra
+License Type: Data files © Original Authors
+
+n95-testing-17
+Source: https://www.kaggle.com/datasets/dhruvmak/face-mask-detection
+Author: Dhruv Makwana, BhaveshWadhwani 
+License Type: Unknown
+
+n95-testing-18
+Source: https://www.kaggle.com/datasets/dhruvmak/face-mask-detection
+Author: Dhruv Makwana, BhaveshWadhwani 
+License Type: Unknown
+
+n95-testing-19
+Source: https://www.kaggle.com/datasets/dhruvmak/face-mask-detection
+Author: Dhruv Makwana, BhaveshWadhwani 
+License Type: Unknown
+
+n95-testing-20
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-21
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-22
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-23
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-24
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-25
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-26
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-27
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-28
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-29
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-30
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-31
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-32
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-33
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-34
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-35
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-36
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-37
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-38
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-39
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-40
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-41
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-42
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-43
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-44
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-45
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-46
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-47
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-48
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-49
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-50
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-51
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-52
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-53
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-54
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-55
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-56
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-57
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-58
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-59
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-60
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-61
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-62
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-63
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-64
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-65
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-66
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-67
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-68
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-69
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-70
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-71
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-72
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-73
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-74
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-75
+Source: https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format
+Author: Aditya Purohit
+License Type: CC0: Public Domain
+
+n95-testing-76
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-77
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-78
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-79
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-80
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-81
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-82
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-83
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-84
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-85
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-86
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-87
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-88
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-89
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-90
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-91
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-92
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-93
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-94
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-95
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-96
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-97
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-98
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-99
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
+
+n95-testing-100
+Source: https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+Author: Nikola
+License Type: Attribution 4.0 International (CC BY 4.0)
